@@ -46,4 +46,4 @@ Ideal for anyone managing high email volume or repetitive client communication. 
 
 ---
 
-## 📁 Project Structure
+
