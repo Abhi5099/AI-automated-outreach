@@ -7,7 +7,7 @@ This project showcases a Make.com automation scenario that streamlines Gmail inb
 
 ## 🖼️ Screenshot
 
-![Gmail Automation Scenario](screenshots/Screenshot%202025-06-01%20082257.png)
+![Gmail Automation Scenario]()
 
 
 > *This image shows the three-module scenario: Watch Emails → Send Email → Move Email*
